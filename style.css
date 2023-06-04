@@ -6,7 +6,7 @@ html,body{
     overflow-x:hidden;    
 }
 body{
-    background:url("../images/pik.jpg")  center center no-repeat;
+    background:url("pik.jpg")  center center no-repeat;
     background-size:cover;
     background-repeat:no-repeat;
     height: 100%;
