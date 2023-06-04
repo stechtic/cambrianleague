@@ -4,7 +4,10 @@ html,body{
     width: 100%;
     height: 100%;
     overflow-x:hidden;
-       
+    zoom:150%;
+}
+html{
+ scroll-behavior : smooth;
 }
 body{
     background: url("char.jpg")center center no-repeat;
