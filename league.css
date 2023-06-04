@@ -9,11 +9,11 @@ html,body{
 .part1{
     position:absolute;
     top:0;
-    background: url("../images/bulb.jpg")center center no-repeat;
+    background: url("bulb.jpg")center center no-repeat;
     background-size:cover;
 }
 #part2{
-     background: url("../images/bla.png")center center no-repeat;
+     background: url("bla.png")center center no-repeat;
     background-size:cover;
     height: 100%;
     width: 100%;
@@ -23,28 +23,28 @@ html,body{
     padding-top:10px;
 }
 #p1{
-    background:url("../images/Siddhant.jpg") center center no-repeat;
+    background:url("Siddhant.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin:5px;
     }
  #p2{
-    background:url("../images/Anjal.jpg") center center no-repeat;
+    background:url("Anjal.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
       #p3{
-    background:url("../images/Pratyush.jpg") center center no-repeat;
+    background:url("Pratyush.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
    margin: 5px;
     }
     #p4{
-    background:url("../images/Shivam.jpg") center center no-repeat;
+    background:url("Shivam.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
@@ -52,14 +52,14 @@ html,body{
     
     }
     #p5{
-    background:url("../images/Akshar.jpg") center center no-repeat;
+    background:url("Akshar.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p6{
-    background:url("../images/AkshatM.jpg") center center no-repeat;
+    background:url("AkshatM.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
@@ -67,84 +67,84 @@ html,body{
     
     }
     #p7{
-    background:url("../images/Daksh.jpg") center center no-repeat;
+    background:url("Daksh.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p8{
-    background:url("../images/Shorya.jpg") center center no-repeat;
+    background:url("Shorya.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p9{
-    background:url("../images/Abhay.jpg") center center no-repeat;
+    background:url("Abhay.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p10{
-    background:url("../images/Aryan.jpg") center center no-repeat;
+    background:url("Aryan.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p11{
-    background:url("../images/Shiven.jpg") center center no-repeat;
+    background:url("Shiven.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p12{
-    background:url("../images/Krishna.jpg") center center no-repeat;
+    background:url("Krishna.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p13{
-    background:url("../images/Augustya.jpg") center center no-repeat;
+    background:url("Augustya.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p14{
-    background:url("../images/Prashant.jpg") center center no-repeat;
+    background:url("Prashant.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p15{
-    background:url("../images/Adhyan.jpg") center center no-repeat;
+    background:url("Adhyan.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p16{
-    background:url("../images/Ankit.jpg") center center no-repeat;
+    background:url("Ankit.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p17{
-    background:url("../images/Abhinav.jpg") center center no-repeat;
+    background:url("Abhinav.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
     margin: 5px;
     }
     #p18{
-    background:url("../images/Abhishek.jpg") center center no-repeat;
+    background:url("Abhishek.jpg") center center no-repeat;
     background-size:cover;
     width: 10rem; 
     height: 12rem;
