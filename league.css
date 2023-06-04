@@ -1,0 +1,205 @@
+html,body{
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: 100%;
+    overflow-x:hidden;
+    text-align:center;    
+}
+.part1{
+    position:absolute;
+    top:0;
+    background: url("../images/bulb.jpg")center center no-repeat;
+    background-size:cover;
+}
+#part2{
+     background: url("../images/bla.png")center center no-repeat;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+}
+#head1{
+    text-align:center;
+    padding-top:10px;
+}
+#p1{
+    background:url("../images/Siddhant.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin:5px;
+    }
+ #p2{
+    background:url("../images/Anjal.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+      #p3{
+    background:url("../images/Pratyush.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+   margin: 5px;
+    }
+    #p4{
+    background:url("../images/Shivam.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    
+    }
+    #p5{
+    background:url("../images/Akshar.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p6{
+    background:url("../images/AkshatM.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    
+    }
+    #p7{
+    background:url("../images/Daksh.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p8{
+    background:url("../images/Shorya.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p9{
+    background:url("../images/Abhay.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p10{
+    background:url("../images/Aryan.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p11{
+    background:url("../images/Shiven.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p12{
+    background:url("../images/Krishna.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p13{
+    background:url("../images/Augustya.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p14{
+    background:url("../images/Prashant.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p15{
+    background:url("../images/Adhyan.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p16{
+    background:url("../images/Ankit.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p17{
+    background:url("../images/Abhinav.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    #p18{
+    background:url("../images/Abhishek.jpg") center center no-repeat;
+    background-size:cover;
+    width: 10rem; 
+    height: 12rem;
+    margin: 5px;
+    }
+    .photo{
+   
+        margin:5px;
+    }
+ #sect-1{
+     display:flex;
+     flex-wrap:wrap;
+     max-width:100%;
+     justify-content:center;
+     margin:auto;
+     text-align:center;
+ }
+
+ .man{
+     margin:auto;
+ }
+ .items{
+     align-items:center;
+     justify-content:center;
+     display:flex;
+     flex-wrap:wrap;
+     max-width:95%;
+     margin:auto;
+   
+ }
+ .items img{
+    padding:5px;
+ }
+ #lo1 img{
+     width: 10rem; 
+    height: 14rem;
+ } 
+  #lo2 img{
+     width: 10rem; 
+    height: 14rem;
+ }
+ #lo3 img{
+     width: 10rem; 
+    height: 14rem;
+ }
+ #lo4 img{
+     width: 10rem; 
+    height: 14rem;
+ }
+ .clubs img{
+    width: 14rem; 
+    height: 14rem; 
+ }
+footer{
+    height: 10vh;
+    background-color:red;
+}
+
