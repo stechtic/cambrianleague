@@ -7,7 +7,7 @@ html,body{
        
 }
 body{
-    background: url("../images/char.jpg")center center no-repeat;
+    background: url("char.jpg")center center no-repeat;
     background-size:cover;
     color:aquamarine;
     
